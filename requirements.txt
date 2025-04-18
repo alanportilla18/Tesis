@@ -1,0 +1,7 @@
+numpy
+opencv-python
+tensorflow
+keras
+face_recognition
+Pillow
+deepface
