@@ -1,7 +1,8 @@
-numpy
-opencv-python
-tensorflow
-keras
-face_recognition
-Pillow
-deepface
+tensorflow==2.8.0
+opencv-python==4.6.0.66
+numpy==1.21.6
+deepface==0.0.75
+matplotlib==3.5.3
+scikit-learn==1.0.2
+Pillow==9.2.0
+mtcnn==0.1.1

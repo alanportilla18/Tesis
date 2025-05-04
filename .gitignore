@@ -1,3 +1,7 @@
-rostros/
-salidas/
-modelo/
+venv/
+data/rostros
+models/
+outputs/
+cnn_training_history.png
+confusion_matrix.png
+resnet_training_results.png
